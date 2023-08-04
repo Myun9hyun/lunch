@@ -58,14 +58,3 @@ show_menus("_xfWxfCxj")
 
 
 
-
-Sociopath에 메시지 보내기
-
-
-
-
-
-
-
-
-
